@@ -2279,7 +2279,7 @@
         "<code>padding: 10px 20px 10px 20px;</code>",
         "These four values work like a clock: top, right, bottom, left, and will produce the exact same result as using the side-specific padding instructions.",
         "<hr>",
-        "Use Clockwise Notation to give the \".blue-box\" class a <code>padding</code> of <code>40px</code> on its top and left side, but only <code>20px</code> on its bottom and right side."
+        "Use <code>Clockwise Notation</code> to give the \".blue-box\" class a <code>padding</code> of <code>40px</code> on its top and left side, but only <code>20px</code> on its bottom and right side."
       ],
       "challengeSeed": [
         "<style>",
